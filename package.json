@@ -1,0 +1,22 @@
+{
+  "name": "sovaj.landing-page.agency",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "baloo",
+  "contributors": [],
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-bower-concat": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-sails-linker": "^1.0.4",
+    "grunt-wiredep": "^3.0.1"
+  }
+}
